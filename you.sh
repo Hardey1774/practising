@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This will display pin on the terminal for people to see, it is not the best practice.
 echo "Enter your name:"
 read name
 echo "Hello, $name! Welcome to Adfuns Engineering Ltd."
